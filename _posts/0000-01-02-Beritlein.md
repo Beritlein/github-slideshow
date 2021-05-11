@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is a tryout
+:smile: **Let's get started** 
 ---
 Use the left arrow to go back!
 We have *no* free lunch that's for sure
